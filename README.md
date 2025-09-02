@@ -1,23 +1,18 @@
 # Talent-Finder
-Millions of workers in the unstructured economy—such as domestic helpers, cooks, carpenters, tailors, and cleaners—struggle to find jobs because they lack formal resumes. Employers often rely on word-of-mouth referrals, limiting opportunities for both workers and businesses.
+Millions of workers in the unstructured economy—such as domestic helpers, cooks, carpenters, tailors, and cleaners—struggle to find jobs due to the lack of formal resumes. Employers often rely on word-of-mouth, limiting opportunities.
 
-This platform bridges that gap by making workers’ skills visible, searchable, and verifiable, while also helping them grow professionally. Workers record short videos demonstrating their skills, and AI analyzes these videos to generate Hire Cards that highlight skills, experience, availability, languages, and expected pay. Employers can search and filter workers by skill, location, and other criteria to hire efficiently.
-
-Beyond hiring, the platform provides career guidance by suggesting possible career paths, learning roadmaps, and local mentors, enabling workers to upskill and expand their opportunities. The platform also envisions ecosystem integration with NGOs, government programs, and small businesses, creating a complete skill and employment ecosystem for the unstructured workforce.
+This project focuses on making workers’ skills visible and searchable. Workers can record short videos demonstrating their skills, and AI analyzes these videos to generate Hire Cards that display key details such as skills, experience, availability, languages, and expected pay. Employers can search and filter workers by skill, location, and other criteria to find and hire the right talent efficiently.
 
 Core Features:
 
 Video-based skill demonstration
 
-AI-powered skill recognition and Hire Card generation
+AI-generated Hire Cards with worker details
 
-Search and filter for employers
+Search and filter functionality for employers
 
-Career guidance and upskilling suggestions
+Mobile-first interface for easy access
 
-Skill progress tracking and growth over time
-
-This project combines AI, mobile-first design, and social job discovery to empower workers and connect them with meaningful employment opportunities.
-<br>
+This prototype demonstrates how AI can connect unstructured workers with job opportunities, turning informal skills into structured, hireable profiles.
 
 Author - Alisha Bijapure
