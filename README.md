@@ -19,4 +19,5 @@ Skill progress tracking and growth over time
 
 This project combines AI, mobile-first design, and social job discovery to empower workers and connect them with meaningful employment opportunities.
 <br>
+
 Author - Alisha Bijapure
